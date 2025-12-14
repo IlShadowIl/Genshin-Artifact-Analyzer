@@ -1,5 +1,5 @@
 setTimeout(() => {
   const p = document.createElement("p");
-  p.innerText = "and it's dynamic, too!";
+  p.innerText = "Rawr!";
   document.body.appendChild(p);
 }, 2000);
